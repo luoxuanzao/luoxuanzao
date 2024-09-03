@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2023 - To: 01 September 2024
+From: 03 September 2023 - To: 02 September 2024
 
-Total Time: 392 hrs 9 mins
+Total Time: 395 hrs 54 mins
 
-Java                                   235 hrs 37 mins >>>>>>>>>>>>>>>----------   60.06 %
-C++                                    86 hrs 48 mins  >>>>>>-------------------   22.13 %
-C                                      33 hrs 54 mins  >>-----------------------   08.64 %
-XML                                    8 hrs 8 mins    >------------------------   02.08 %
-ObjectiveC                             6 hrs 23 mins   -------------------------   01.63 %
-Python                                 4 hrs 59 mins   -------------------------   01.27 %
-SQL                                    4 hrs 10 mins   -------------------------   01.06 %
-YAML                                   2 hrs 6 mins    -------------------------   00.54 %
-Text                                   1 hr 52 mins    -------------------------   00.48 %
-Groovy                                 1 hr 33 mins    -------------------------   00.40 %
+Java                                   239 hrs 20 mins >>>>>>>>>>>>>>>----------   60.43 %
+C++                                    86 hrs 48 mins  >>>>>--------------------   21.92 %
+C                                      33 hrs 54 mins  >>-----------------------   08.56 %
+XML                                    8 hrs 8 mins    >------------------------   02.06 %
+ObjectiveC                             6 hrs 23 mins   -------------------------   01.61 %
+Python                                 4 hrs 59 mins   -------------------------   01.26 %
+SQL                                    4 hrs 10 mins   -------------------------   01.05 %
+YAML                                   2 hrs 6 mins    -------------------------   00.53 %
+Text                                   1 hr 52 mins    -------------------------   00.47 %
+Groovy                                 1 hr 33 mins    -------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
