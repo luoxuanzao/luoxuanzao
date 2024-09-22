@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 September 2023 - To: 20 September 2024
+From: 22 September 2023 - To: 21 September 2024
 
-Total Time: 376 hrs 21 mins
+Total Time: 371 hrs 54 mins
 
-Java                                   223 hrs 35 mins >>>>>>>>>>>>>>>----------   59.39 %
-C++                                    85 hrs 16 mins  >>>>>>-------------------   22.65 %
-C                                      33 hrs 54 mins  >>-----------------------   09.01 %
-XML                                    6 hrs 53 mins   -------------------------   01.83 %
-ObjectiveC                             6 hrs 21 mins   -------------------------   01.69 %
-Python                                 4 hrs 59 mins   -------------------------   01.33 %
-SQL                                    4 hrs 5 mins    -------------------------   01.09 %
-YAML                                   2 hrs 5 mins    -------------------------   00.55 %
-Text                                   1 hr 53 mins    -------------------------   00.50 %
+Java                                   219 hrs 23 mins >>>>>>>>>>>>>>>----------   58.97 %
+C++                                    85 hrs 16 mins  >>>>>>-------------------   22.92 %
+C                                      33 hrs 54 mins  >>-----------------------   09.11 %
+XML                                    6 hrs 53 mins   -------------------------   01.85 %
+ObjectiveC                             6 hrs 21 mins   -------------------------   01.71 %
+Python                                 4 hrs 59 mins   -------------------------   01.34 %
+SQL                                    4 hrs 5 mins    -------------------------   01.10 %
+YAML                                   2 hrs 5 mins    -------------------------   00.56 %
+Text                                   1 hr 53 mins    -------------------------   00.51 %
 Groovy                                 1 hr 33 mins    -------------------------   00.42 %
 ```
 
