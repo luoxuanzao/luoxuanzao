@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 October 2023 - To: 04 October 2024
+From: 06 October 2023 - To: 05 October 2024
 
 Total Time: 366 hrs 1 min
 
@@ -29,7 +29,6 @@ XML                                    6 hrs 44 mins   -------------------------
 ObjectiveC                             6 hrs 21 mins   -------------------------   01.74 %
 Python                                 4 hrs 59 mins   -------------------------   01.36 %
 SQL                                    4 hrs 5 mins    -------------------------   01.12 %
-YAML                                   2 hrs 5 mins    -------------------------   00.57 %
 Text                                   1 hr 53 mins    -------------------------   00.51 %
 Groovy                                 1 hr 33 mins    -------------------------   00.43 %
 ```
