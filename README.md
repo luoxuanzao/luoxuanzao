@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 February 2024 - To: 18 February 2025
+From: 20 February 2024 - To: 19 February 2025
 
-Total Time: 320 hrs 47 mins
+Total Time: 320 hrs 21 mins
 
-Java                                   269 hrs 59 mins >>>>>>>>>>>>>>>>>>>>>----   84.13 %
-C                                      28 hrs 23 mins  >>-----------------------   08.85 %
+Java                                   269 hrs 33 mins >>>>>>>>>>>>>>>>>>>>>----   84.11 %
+C                                      28 hrs 23 mins  >>-----------------------   08.86 %
 XML                                    6 hrs 55 mins   >------------------------   02.16 %
 Python                                 3 hrs 47 mins   -------------------------   01.18 %
 SQL                                    2 hrs 10 mins   -------------------------   00.68 %
