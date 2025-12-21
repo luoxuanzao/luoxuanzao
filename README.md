@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 December 2024 - To: 19 December 2025
+From: 20 December 2024 - To: 20 December 2025
 
-Total Time: 556 hrs 46 mins
+Total Time: 554 hrs 55 mins
 
-Python              258 hrs 58 mins >>>>>>>>>>>>-------------   46.39 %
-Java                223 hrs 20 mins >>>>>>>>>>---------------   40.01 %
-XML                 13 hrs 36 mins  >------------------------   02.44 %
-Markdown            7 hrs 45 mins   -------------------------   01.39 %
+Python              258 hrs 58 mins >>>>>>>>>>>>-------------   46.54 %
+Java                221 hrs 52 mins >>>>>>>>>>---------------   39.88 %
+XML                 13 hrs 13 mins  >------------------------   02.38 %
+Markdown            7 hrs 45 mins   -------------------------   01.40 %
 INI                 6 hrs 57 mins   -------------------------   01.25 %
-Text                4 hrs 32 mins   -------------------------   00.81 %
-textmate            3 hrs 55 mins   -------------------------   00.70 %
-Properties          2 hrs 52 mins   -------------------------   00.51 %
+Text                4 hrs 32 mins   -------------------------   00.82 %
+textmate            3 hrs 55 mins   -------------------------   00.71 %
+Properties          2 hrs 52 mins   -------------------------   00.52 %
 Java Properties     2 hrs 31 mins   -------------------------   00.45 %
 ```
 
