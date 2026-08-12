@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 August 2025 - To: 10 August 2026
+From: 11 August 2025 - To: 11 August 2026
 
-Total Time: 860 hrs 29 mins
+Total Time: 857 hrs 46 mins
 
-Python               477 hrs 42 mins       >>>>>>>>>>>>>------------   53.80 %
-Markdown             104 hrs 1 min         >>>----------------------   11.71 %
-Java                 74 hrs 23 mins        >>-----------------------   08.38 %
-TypeScript           49 hrs 1 min          >------------------------   05.52 %
-Other                27 hrs 30 mins        >------------------------   03.10 %
+Python               477 hrs 42 mins       >>>>>>>>>>>>>------------   53.96 %
+Markdown             104 hrs 1 min         >>>----------------------   11.75 %
+Java                 73 hrs 23 mins        >>-----------------------   08.29 %
+TypeScript           49 hrs 1 min          >------------------------   05.54 %
+Other                27 hrs 30 mins        >------------------------   03.11 %
 ```
 
 <!--END_SECTION:waka-->
