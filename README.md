@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 September 2025 - To: 16 September 2026
+From: 17 September 2025 - To: 17 September 2026
 
-Total Time: 873 hrs 52 mins
+Total Time: 869 hrs 23 mins
 
-Python               412 hrs 45 mins       >>>>>>>>>>>--------------   44.19 %
-TypeScript           135 hrs 46 mins       >>>>---------------------   14.54 %
-Markdown             125 hrs 47 mins       >>>----------------------   13.47 %
-Other                60 hrs 15 mins        >>-----------------------   06.45 %
+Python               408 hrs 50 mins       >>>>>>>>>>>--------------   43.98 %
+TypeScript           135 hrs 46 mins       >>>>---------------------   14.61 %
+Markdown             125 hrs 32 mins       >>>----------------------   13.50 %
+Other                60 hrs 15 mins        >>-----------------------   06.48 %
 ```
 
 <!--END_SECTION:waka-->
